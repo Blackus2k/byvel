@@ -1,12 +1,22 @@
-**BYVEL**
+ **BYVEL**
 
 + AN FAST,
 
 + SAFE,
 
    **NUKER.**
+   
+**EXPLAINING**
+--------------------------------------------------------------
 
 
+**what is a [guild id](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)**
+
+
+
+**stuff about bots that you need to know [here](https://discord.com/developers/docs/getting-started)**
+               
+   **VERSIONS**    
 --------------------------------------------------------------
 **V2**
 
