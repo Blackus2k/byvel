@@ -1,4 +1,4 @@
- **BYVEL**
+ # BYVEL
 
 + AN FAST,
 
@@ -6,7 +6,7 @@
 
    **NUKER.**
    
-**EXPLAINING**
+# EXPLAINING
 --------------------------------------------------------------
 
 
@@ -16,7 +16,7 @@
 
 **stuff about bots that you need to know [here](https://discord.com/developers/docs/getting-started)**
                
-   **VERSIONS**    
+   # VERSIONS
 --------------------------------------------------------------
 **V2**
 
@@ -40,7 +40,7 @@
  
  ----------------------------------------------------------------
  
- ***MORE VERSIONS COMING OUT WHEN NEEDED.***
+ # MORE VERSIONS COMING OUT WHEN NEEDED.
 
 
 
